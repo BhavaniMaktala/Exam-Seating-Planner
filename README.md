@@ -165,12 +165,8 @@ This project is developed for educational and learning purposes.
 
 ---
 
-## 👩‍💻 Author
+## 👥 Team
 
-**Bhavani Maktala**
-
-B.Tech – Artificial Intelligence & Machine Learning
-
-Keshav Memorial Institute of Technology
+This project was developed collaboratively as part of a college group project.
 
 ⭐ If you found this project useful, consider giving it a Star.
